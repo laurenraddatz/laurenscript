@@ -1,2 +1,2 @@
 # laurenscript
-it's a programming language!
+yet another esoteric programming language.
